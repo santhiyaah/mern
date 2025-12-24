@@ -22,5 +22,4 @@ const useState = () => {
         </div>
     )
 }
-
 export default useState
